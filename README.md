@@ -1,5 +1,27 @@
 # airbnb clone
 
+Python Django를 사용한 에어비앤비 클론코딩입니다.
+
+## Demo / 데모
+
+[라이브 데모 보기](http://13.124.242.249:8000/)
+
+## Getting Started / 어떻게 시작하나요?
+
+### Installing / 설치
+
+아래 사항들로 현 프로젝트에 관한 모듈들을 설치할 수 있습니다.
+
+```
+npm install
+```
+
+### Run / 실행
+
+```
+pipenv shell
+python run manage.py runserver
+```
 
 ## 다시들어야할것같은강의
 ```
